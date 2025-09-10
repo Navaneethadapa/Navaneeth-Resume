@@ -13,7 +13,7 @@ const projectsData = [
     description: "An intelligent knowledge management system that uses AI to organize, connect, and retrieve information. Built with React, Node.js, and OpenAI APIs.",
     image: neuroNestImg,
     technologies: ["React", "Node.js", "OpenAI API", "PostgreSQL", "TypeScript", "Tailwind CSS"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/Navaneethadapa/NeuroNest",
     demoUrl: "#",
     icon: Brain
   },
@@ -23,8 +23,8 @@ const projectsData = [
     description: "Real-time object detection and classification system using computer vision. Supports multiple object types with high accuracy and performance optimization.",
     image: objectRecImg,
     technologies: ["Python", "TensorFlow", "OpenCV", "Flask", "Docker", "AWS"],
-    githubUrl: "#",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Navaneethadapa/Vision-Assist",
+    demoUrl: "https://drive.google.com/file/d/1Xgh530Omn6IAvfi5idX-yY13xlTJ4KQe/view?usp=sharing",
     icon: Eye
   },
   {
@@ -33,18 +33,18 @@ const projectsData = [
     description: "AI-powered legal document automation tool that generates contracts, agreements, and legal forms with intelligent clause suggestions.",
     image: legalDocsImg,
     technologies: ["Next.js", "Python", "LangChain", "Supabase", "Stripe", "Vercel"],
-    githubUrl: "#",
-    demoUrl: "#",
+    githubUrl: "https://github.com/Navaneethadapa/text-generation-django",
+    demoUrl: "https://drive.google.com/file/d/1anlQVnReEnFznhNcTES7BtoH1R7jxJWu/view?usp=sharing",
     icon: FileText
   },
   {
     id: 4,
-    title: "Portfolio Website",
-    description: "Modern, responsive portfolio website with interactive animations and WebGL effects. Features dynamic content and smooth user experience.",
+    title: "MadVerses",
+    description: "Modern, responsive animated website built with Clean & Interactive UI and WebGL effects. Features dynamic content and smooth user experience for MetaVerses Collab.",
     image: portfolioImg,
-    technologies: ["React", "TypeScript", "Framer Motion", "Three.js", "Tailwind CSS", "Vite"],
-    githubUrl: "#",
-    demoUrl: "#",
+    technologies: ["Next JS", "TypeScript", "CSS", "Three.js", "Tailwind CSS", "Vite"],
+    githubUrl: "https://github.com/Navaneethadapa/Mad_Verse",
+    demoUrl: "https://mad-verse-navaneethadapa.vercel.app/",
     icon: Brain
   }
 ];

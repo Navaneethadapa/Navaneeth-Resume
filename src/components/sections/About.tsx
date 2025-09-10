@@ -136,8 +136,8 @@ const About: React.FC = () => {
           className="mt-20 grid grid-cols-2 lg:grid-cols-4 gap-8"
         >
           {[
-            { number: '25+', label: 'Projects Completed' },
-            { number: '2+', label: 'Years Experience' },
+            { number: '6+', label: 'Projects Completed' },
+            { number: '1.5+', label: 'Years Experience' },
             { number: '15+', label: 'Technologies' },
             { number: '∞', label: 'Learning Never Stops' }
           ].map((stat, index) => (

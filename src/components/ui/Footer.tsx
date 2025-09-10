@@ -191,11 +191,11 @@ export const Footer: React.FC<FooterProps> = ({ hue = 220 }) => {
             </motion.h4>
             <div className="flex space-x-4">
               {[
-                { icon: Github, href: 'https://github.com/navaneeth-adapa', label: 'GitHub' },
-                { icon: Linkedin, href: 'https://linkedin.com/in/navaneeth-adapa', label: 'LinkedIn' },
-                { icon: Twitter, href: 'https://twitter.com/navaneeth_adapa', label: 'Twitter' },
-                { icon: Youtube, href: 'https://youtube.com/@navaneeth-adapa', label: 'YouTube' },
-                { icon: Mail, href: 'mailto:navaneeth@adapa.com', label: 'Email' }
+                { icon: Github, href: 'https://github.com/Navaneethadapa', label: 'GitHub' },
+                { icon: Linkedin, href: 'https://www.linkedin.com/in/navaneethsaiadapa/', label: 'LinkedIn' },
+                { icon: Twitter, href: 'https://twitter.com/Navaneeth_\adapa', label: 'Twitter' },
+                { icon: Youtube, href: 'https://youtube.com/@Navaneeth_Adapa', label: 'YouTube' },
+                { icon: Mail, href: 'mailto:adapanavaneethsai@gmail.com', label: 'Email' }
               ].map(({ icon: Icon, href, label }) => (
                 <a
                   key={label}
@@ -239,7 +239,7 @@ export const Footer: React.FC<FooterProps> = ({ hue = 220 }) => {
             viewport={{ once: true }}
             className="text-white/60 text-sm mb-4 md:mb-0 flex items-center"
           >
-            © {currentYear} Navaneeth Adapa. Made with{' '}
+            © {currentYear} Navaneeth Sai Adapa. Made with{' '}
             <Heart className="w-4 h-4 text-red-400 mx-1 animate-pulse" />
             and cutting-edge AI
           </motion.p>

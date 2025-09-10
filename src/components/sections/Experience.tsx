@@ -15,7 +15,7 @@ const experienceData = [
       "Automated packaging with 50+ PowerShell scripts, cutting manual effort by 30%.",
       "Built 5 real-time dashboards for project metrics, improving stakeholder visibility.",
       "Resolved 200+ incidents in ServiceNow and authored 50+ KB articles, boosting team efficiency.",
-      "Collaborated with QA, security, and PM teams, achieving 98% UAT success rate."
+      "Collaborated with QA, security, and PM teams, achieving 100% UAT success rate."
     ]
   },
   {
@@ -48,7 +48,7 @@ export const Experience: React.FC = () => {
             💼 Work <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">Experience</span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            My professional journey in technology and artificial intelligence.
+            My professional journey in Tech and AI.
           </p>
         </motion.div>
 

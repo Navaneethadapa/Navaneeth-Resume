@@ -11,7 +11,7 @@ const educationData = [
     location: "Bhimavaram, India",
     cgpa: "CGPA: 8.11/10",
     achievements: [
-      "Core coursework in AI, Machine Learning, Operating Systems, Computer Networks."
+      "Core coursework in AI, Machine Learning, Operating Systems, Computer Networks, and Advanced Math"
     ]
   },
   {
@@ -22,7 +22,7 @@ const educationData = [
     location: "Kakinada, India",
     cgpa: "CGPA: 9.29/10",
     achievements: [
-      "Strong foundation in Mathematics and Problem Solving."
+      "Strong foundation in Mathematics and Problem Solving.", "Secured 96 percentile in JEE Mains and secured the top rank in the college."
     ]
   }
 ];

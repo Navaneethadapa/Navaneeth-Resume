@@ -6,7 +6,7 @@ const Achievements: React.FC = () => {
   const achievements = [
     {
       id: 1,
-      icon: Trophy,
+      icon: Award,
       title: 'Top 10 in Google BigQuery Skills Challenge 2023',
       description: 'Competed against thousands of participants in advanced data analytics and cloud computing challenges.',
       year: '2023',
@@ -14,10 +14,10 @@ const Achievements: React.FC = () => {
     },
     {
       id: 2,
-      icon: Star,
-      title: '4.8⭐ Chegg Subject Matter Expert',
-      description: 'Maintained exceptional ratings while providing expert guidance in mathematics and computer science.',
-      year: '2022 Nov-2023 Jan',
+      icon: Trophy,
+      title: '96 Percentile in JEE Mains',
+      description: 'Secured 96 percentile in JEE Mains with top scores in Mathematics and Physics, and ranked 1st in the entire college.',
+      year: '2020 April',
       hue: 260, // Purple
     },
     {
@@ -33,7 +33,7 @@ const Achievements: React.FC = () => {
   const stats = [
     { number: '5000+', label: 'AI Prompts Refined', icon: Award },
     { number: '100+', label: 'Apps Managed', icon: Trophy },
-    { number: '30%', label: 'Efficiency Improved', icon: Star },
+    { number: '4.8 ⭐️', label: 'Chegg Subject Expert', icon: Star },
     { number: '150+', label: 'Students Mentored', icon: Users },
   ];
 

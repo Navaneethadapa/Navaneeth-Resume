@@ -138,7 +138,7 @@ const About: React.FC = () => {
           {[
             { number: '6+', label: 'Projects Completed' },
             { number: '1.5+', label: 'Years Experience' },
-            { number: '15+', label: 'Technologies' },
+            { number: '25+', label: 'Technologies' },
             { number: '∞', label: 'Learning Never Stops' }
           ].map((stat, index) => (
             <motion.div

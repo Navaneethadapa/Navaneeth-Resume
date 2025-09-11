@@ -18,22 +18,22 @@ interface Testimonial {
 const testimonials: Testimonial[] = [
   {
     id: "1",
-    name: "Sarah Chen",
-    role: "Senior Product Manager",
-    company: "TechVista Solutions",
+    name: "Vaishnavi Dasika",
+    role: "MS CS@CU Student",
+    company: "Columbia University",
     avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=400&h=400&fit=crop&crop=face",
-    message: "Navaneeth's professionalism and technical expertise are outstanding. His enthusiasm for AI and machine learning is infectious, and he consistently delivers high-quality work that exceeds expectations. A true asset to any team.",
-    linkedinUrl: "https://www.linkedin.com/in/sarah-chen-tech",
+    message: "Collaborating with Navaneeth in tech projects was really an good experience. His technical expertise, professionalism, and passion for AI/ML is OutStanding. A true asset to any team.",
+    linkedinUrl: "https://www.linkedin.com/in/vaishnavi-dasika/",
     rating: 5
   },
   {
     id: "2", 
-    name: "Michael Rodriguez",
-    role: "Lead Data Scientist",
-    company: "InnovateLabs",
+    name: "Dhanush Dasari",
+    role: "Systems Engineer",
+    company: "Tata Consultancy Services",
     avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
     message: "Working with Navaneeth has been exceptional. His deep understanding of mathematics and AI algorithms, combined with his ability to translate complex concepts into practical solutions, makes him an invaluable collaborator.",
-    linkedinUrl: "https://www.linkedin.com/in/michael-rodriguez-data",
+    linkedinUrl: "https://www.linkedin.com/in/dhanushdhm/",
     rating: 5
   },
   {

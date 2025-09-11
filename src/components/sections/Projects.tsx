@@ -9,8 +9,8 @@ import portfolioImg from '@/assets/projects/portfolio.jpg';
 const projectsData = [
   {
     id: 1,
-    title: "NeuroNest - AI Second Brain",
-    description: "An intelligent knowledge management system that uses AI to organize, connect, and retrieve information. Built with React, Node.js, and OpenAI APIs.",
+    title: "NeuroNest (Building)",
+    description: "Engineered an Emotional Intelligence AI based on GPT-3.5 using Next.js 13, Framer Motion, and TypeScript, consisting of 15,000+ lines of code and 45+ reusable components. achieving 85% accuracy and <2s latency with optimized memory recall.",
     image: neuroNestImg,
     technologies: ["React", "Node.js", "OpenAI API", "PostgreSQL", "TypeScript", "Tailwind CSS"],
     githubUrl: "https://github.com/Navaneethadapa/NeuroNest",
@@ -20,9 +20,9 @@ const projectsData = [
   {
     id: 2,
     title: "Object Recognition System",
-    description: "Real-time object detection and classification system using computer vision. Supports multiple object types with high accuracy and performance optimization.",
+    description: "This project provides real-time object recognition with voice-guided navigation to assist visually impaired users, integrating multilingual voice commands, live object detection, and distance estimation. It includes modules for currency detection, barcode-based product identification, and text-to-speech translation services.",
     image: objectRecImg,
-    technologies: ["Python", "TensorFlow", "OpenCV", "Flask", "Docker", "AWS"],
+    technologies: ["Python", "SSD MobileNet", "OpenCV", "ResNet34", "MBart-50", "Pyzbar"],
     githubUrl: "https://github.com/Navaneethadapa/Vision-Assist",
     demoUrl: "https://drive.google.com/file/d/1Xgh530Omn6IAvfi5idX-yY13xlTJ4KQe/view?usp=sharing",
     icon: Eye
@@ -30,9 +30,9 @@ const projectsData = [
   {
     id: 3,
     title: "Legal Document Generator",
-    description: "AI-powered legal document automation tool that generates contracts, agreements, and legal forms with intelligent clause suggestions.",
+    description: "The project aims to fine-tune the Llama 2 language model specifically for legal text generation, producing accurate and contextually relevant legal documents. It uses advanced techniques like LoRA and quantization for efficient training while ensuring model safety and reliability.",
     image: legalDocsImg,
-    technologies: ["Next.js", "Python", "LangChain", "Supabase", "Stripe", "Vercel"],
+    technologies: ["Llama 2", "Python", "Hugging Face", "Django", "Rest API", "Java Script"],
     githubUrl: "https://github.com/Navaneethadapa/text-generation-django",
     demoUrl: "https://drive.google.com/file/d/1anlQVnReEnFznhNcTES7BtoH1R7jxJWu/view?usp=sharing",
     icon: FileText
@@ -40,7 +40,7 @@ const projectsData = [
   {
     id: 4,
     title: "MadVerses",
-    description: "Modern, responsive animated website built with Clean & Interactive UI and WebGL effects. Features dynamic content and smooth user experience for MetaVerses Collab.",
+    description: "Developed MadVerse a Metaverse project focused on immersive virtual environments, leveraging modern JavaScript and CSS technologies to create dynamic user experiences. Showcasing expertise in 3D web development, interactive UI/UX design, and real-time rendering.",
     image: portfolioImg,
     technologies: ["Next JS", "TypeScript", "CSS", "Three.js", "Tailwind CSS", "Vite"],
     githubUrl: "https://github.com/Navaneethadapa/Mad_Verse",

@@ -86,7 +86,7 @@ export const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold">Email</h4>
-                    <p className="text-gray-400">navaneethsai.adapa@gmail.com</p>
+                    <p className="text-gray-400">adapanavaneethsai@gmail.com</p>
                   </div>
                 </motion.div>
 

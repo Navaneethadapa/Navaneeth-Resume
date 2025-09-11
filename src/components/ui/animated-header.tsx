@@ -64,7 +64,10 @@ export const AnimatedHeader: React.FC = () => {
             transition={{ delay: 0.5, type: "spring", stiffness: 200 }}
             className="hidden md:block"
           >
+            <a href="https://drive.google.com/file/d/1rkhLXqiK26nyXfOmHRcYpnCzsm1Ope5K/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <RainbowButton className="w-[120px]">Resume</RainbowButton>
+            </a>
+            
           </motion.div>
 
           {/* Mobile Menu Button */}
